@@ -8,3 +8,5 @@ the apple on the screen will eventually rotten.
 Red Apple -> 3pts
 Orange Apple -> 2pts
 Yellow Apple -> 1pts
+
+If you want to try out this game, plz download the snake.zip file!
